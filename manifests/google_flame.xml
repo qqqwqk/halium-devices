@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote  name="qqwqk"
+     fetch="https://github.com/qqqwqk/"/>
+        <project path="device/google/flame" name="android_device_google_coral" remote="qqwqk" revision="lineage-19.0" />
+        <project path="kernel/google/msm-4.14" name="android_kernel_google_msm-4.14" remote="qqwqk" revision="lineage-19.0" />
+        <project path="vender/google/flame" name="proprietary_vendor_google" remote="qqwqk" revision="lineage-19.0/flame" />
+
+</manifest>
